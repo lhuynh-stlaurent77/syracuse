@@ -2,4 +2,4 @@ name: syracuse
 channels:
   - conda-forge
 dependencies:
-  - maplotlib
+  - matplotlib
